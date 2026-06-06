@@ -1,0 +1,2 @@
+source /home/flopa/Projects/mp3player/mp3player_software/build/bootloader/gdbinit/symbols
+source /home/flopa/Projects/mp3player/mp3player_software/build/bootloader/gdbinit/connect
