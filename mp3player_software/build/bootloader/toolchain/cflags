@@ -1,6 +1,0 @@
-"-specs=/home/flopa/Projects/mp3player/mp3player_software/build/bootloader/specs/picolibc.specs"
--Wno-frame-address
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero
