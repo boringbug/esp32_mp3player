@@ -1,0 +1,4 @@
+mp3player_hardware/
+mp3player_software/build/
+mp3player_software/sdkconfig
+mp3player_software/sdkconfig.old
