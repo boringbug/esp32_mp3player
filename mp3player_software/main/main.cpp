@@ -27,7 +27,7 @@ void hello_world() {
 extern "C" void app_main() {
 	hello_world();
     
-	int n = 10;
+	int n = 100;
 
 	for(int j = 0; j <= n; j++) {
 		preaty_print(j);
